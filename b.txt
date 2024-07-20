@@ -1,2 +1,0 @@
-1st line in b.txt
-2nd line added in b.txt
