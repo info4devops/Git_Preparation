@@ -1,3 +1,4 @@
 Hello, Branching Folder
 test from a.txt
+Line added by main Branch
 
