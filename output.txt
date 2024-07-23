@@ -1,0 +1,55 @@
+c91d1f0 HEAD@{0}: commit: revert functionality check
+3d388e6 HEAD@{1}: commit: after revert
+c38c9e7 HEAD@{2}: revert: Revert "added extra line"
+5249ec7 HEAD@{3}: commit: added extra line
+19409bf HEAD@{4}: commit: before git revert
+10385b5 HEAD@{5}: pull origin main: Fast-forward
+d4d19b9 HEAD@{6}: checkout: moving from main to main
+d4d19b9 HEAD@{7}: reset: moving to HEAD
+d4d19b9 HEAD@{8}: reset: moving to HEAD
+d4d19b9 HEAD@{9}: reset: moving to HEAD
+d4d19b9 HEAD@{10}: checkout: moving from new1 to main
+b9d526b HEAD@{11}: checkout: moving from main to new1
+d4d19b9 HEAD@{12}: commit: conflict resolved
+9f788f2 HEAD@{13}: merge new1: updating HEAD
+9f788f2 HEAD@{14}: checkout: moving from main to main
+9f788f2 HEAD@{15}: checkout: moving from new1 to main
+b9d526b HEAD@{16}: commit: c1new1
+a538f93 HEAD@{17}: checkout: moving from main to new1
+9f788f2 HEAD@{18}: commit: c1m
+83305ed HEAD@{19}: checkout: moving from main to main
+83305ed HEAD@{20}: merge new1: Merge made by the 'ort' strategy.
+174e6aa HEAD@{21}: checkout: moving from new1 to main
+a538f93 HEAD@{22}: checkout: moving from new1 to new1
+a538f93 HEAD@{23}: commit: Commit from new branch
+3ad4f4b HEAD@{24}: checkout: moving from main to new1
+174e6aa HEAD@{25}: commit: commit from main branch
+3ad4f4b HEAD@{26}: reset: moving to 3ad4f4b
+16c174a HEAD@{27}: commit: added again
+3ad4f4b HEAD@{28}: reset: moving to 3ad4f4b
+67938fe HEAD@{29}: commit: xyz.txt added
+3ad4f4b HEAD@{30}: reset: moving to 3ad4f4b
+463c22d HEAD@{31}: reset: moving to 463c22d
+463c22d HEAD@{32}: commit: 12
+3ad4f4b HEAD@{33}: commit: reset check
+e305bbc HEAD@{34}: commit: 12
+3455441 HEAD@{35}: commit: modified x.txt and y.txt
+387ed34 HEAD@{36}: commit: 12
+8034103 HEAD@{37}: revert: Revert "File Modified"
+acf1615 HEAD@{38}: commit: File Modified
+32a3bb2 HEAD@{39}: reset: moving to HEAD
+32a3bb2 HEAD@{40}: reset: moving to HEAD
+32a3bb2 HEAD@{41}: commit: 13
+d6bf0a1 HEAD@{42}: merge new1: Fast-forward
+10e98ce HEAD@{43}: checkout: moving from new1 to main
+d6bf0a1 HEAD@{44}: commit: 1
+10e98ce HEAD@{45}: checkout: moving from main to new1
+10e98ce HEAD@{46}: checkout: moving from newbranch2 to main
+10e98ce HEAD@{47}: checkout: moving from main to newbranch2
+10e98ce HEAD@{48}: commit: 12
+12c35b9 HEAD@{49}: commit: 2nd commit
+2e2b29d HEAD@{50}: commit: 1st commit
+97412cc HEAD@{51}: commit: added modified file
+828b06e HEAD@{52}: commit: 12
+20254ba HEAD@{53}: Branch: renamed refs/heads/master to refs/heads/main
+20254ba HEAD@{55}: commit (initial): first commit
