@@ -1,2 +1,3 @@
 Hello, abc.txt 
 Checking git revert functionality
+Revert concept understood completely

@@ -1,2 +1,3 @@
 Hello, this is from f1.txt 
 Present in new1 branch
+Demo on stashing
